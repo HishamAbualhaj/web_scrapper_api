@@ -8,11 +8,6 @@ dist/
 .env
 .env.local
 
-# scraped data
-data/
-*.json
-*.csv
-
 # logs
 logs/
 *.log
